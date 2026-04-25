@@ -2,10 +2,10 @@
   <img src="claude_pulse_logo.svg" alt="Claude Pulse Logo" width="128" height="128">
 </p>
 
-<h1 align="center">Claude Pulse</h1>
+<h1 align="center">Claude Pulse — Jolly Roger Edition ☠</h1>
 
 <p align="center">
-  <strong>The real-time metrics dashboard for your Claude conversations</strong>
+  <strong>Plot your course through Claude — a real-time metrics dashboard with a Jolly Roger glow</strong>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-### ✨ Why Claude Pulse?
+### ☠ Why Claude Pulse — Jolly Roger Edition?
 
 - **Token Counter** — Know your context window at all times. Live approximate counting using the `o200k_base` tokenizer.
 - **Cache Timer** — Never miss the 5-minute cache window. A live countdown shows exactly when your next message will be cheaper.
