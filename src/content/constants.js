@@ -1,4 +1,4 @@
-(() => {
+																			☠—☠																														(() => {
 	'use strict';
 
 	const CC = (globalThis.ClaudeCounter = globalThis.ClaudeCounter || {});
@@ -16,19 +16,19 @@
 	});
 
 	CC.COLORS = Object.freeze({
-		PROGRESS_FILL_DARK: 'rgba(255, 255, 255, 0.45)',
-		PROGRESS_FILL_LIGHT: 'rgba(0, 0, 0, 0.30)',
-		PROGRESS_TRACK_DARK: 'rgba(255, 255, 255, 0.08)',
-		PROGRESS_TRACK_LIGHT: 'rgba(0, 0, 0, 0.06)',
+		PROGRESS_FILL_DARK: 'rgba(94, 234, 212, 0.85)',
+		PROGRESS_FILL_LIGHT: 'rgba(20, 184, 166, 0.85)',
+		PROGRESS_TRACK_DARK: 'rgba(94, 234, 212, 0.10)',
+		PROGRESS_TRACK_LIGHT: 'rgba(20, 184, 166, 0.10)',
 		PROGRESS_OUTLINE_DARK: 'transparent',
 		PROGRESS_OUTLINE_LIGHT: 'transparent',
-		PROGRESS_MARKER_DARK: 'rgba(255, 255, 255, 0.7)',
-		PROGRESS_MARKER_LIGHT: 'rgba(0, 0, 0, 0.5)',
-		AMBER_WARNING: '#d97706',
-		CRITICAL_WARNING: '#ef4444',
-		CACHE_ACTIVE_DARK: 'rgba(74, 222, 128, 0.8)',
-		CACHE_ACTIVE_LIGHT: '#16a34a',
-		BOLD_LIGHT: '#141413',
-		BOLD_DARK: '#faf9f5'
+		PROGRESS_MARKER_DARK: 'rgba(34, 211, 238, 0.95)',
+		PROGRESS_MARKER_LIGHT: 'rgba(13, 148, 136, 0.85)',
+		AMBER_WARNING: '#FBBF24'
+		CRITICAL_WARNING: '#F43F5E',
+		CACHE_ACTIVE_DARK: 'rgba(94, 234, 212, 0.95)',
+		CACHE_ACTIVE_LIGHT: '#0D9488',
+		BOLD_LIGHT: '#0F766E',
+		BOLD_DARK: '#5EEAD4'
 	});
 })();
